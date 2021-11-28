@@ -1,5 +1,5 @@
 exports.allmenu = (pushname, sender, isOwner, isPrem, cekvipp, getLimit, limitawal, limit, balance, getBalance, simbolnya, petik, prefix) => {
-return`Hello ${pushname}🤗
+return`Hello ${pushname}👋. I'm Rei kizaki BOT
 
 📛 Nama : ${pushname} 
 🆔 Nomor : @${sender.split("@")[0]} 
